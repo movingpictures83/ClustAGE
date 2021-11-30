@@ -1,0 +1,2 @@
+Prefix plugins/ClustAGE/example/
+Plugin ClustAGE inputfile fastafiles.txt outputfile myoutput

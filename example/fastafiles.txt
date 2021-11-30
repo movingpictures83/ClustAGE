@@ -1,0 +1,3 @@
+plugins/ClustAGE/example/output.AG1.accessory.fasta
+plugins/ClustAGE/example/output.PAO1.accessory.fasta
+plugins/ClustAGE/example/output.PA14.accessory.fasta
